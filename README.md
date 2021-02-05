@@ -1,2 +1,2 @@
-# awl-lambda-medium
+# aws-lambda-medium
 Contains code for the medium blog on pitfalls of using AWS lambda
